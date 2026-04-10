@@ -129,6 +129,10 @@ impressoras 3D, pós-processamento de peças
 ## Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DankoCaboski&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DankoCaboski&layout=compact&theme=dark&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=DankoCaboski&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DankoCaboski&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DankoCaboski&theme=github_dark" />
+</p>
+
